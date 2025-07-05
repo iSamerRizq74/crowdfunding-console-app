@@ -1,0 +1,98 @@
+[
+    {
+        "owner": "samer.rizk@gmail.com",
+        "title": "School Supplies for Orphans",
+        "details": "Raising funds to buy school bags, notebooks, and uniforms for 100 orphans before the school year starts.",
+        "target": "50,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    },
+    {
+        "owner": "samer.rizk@gmail.com",
+        "title": "Clean Water for Upper Egypt",
+        "details": "We aim to provide water filters to 30 families in remote villages suffering from polluted water sources.",
+        "target": "75,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    },
+    {
+        "owner": "basel.rizk@gmail.com",
+        "title": "Mobile App for Mental Health",
+        "details": "Supporting families whose homes were destroyed by recent conflict by rebuilding 3 homes with basic facilities.",
+        "target": "120,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    },
+    {
+        "owner": "basel.rizk@gmail.com",
+        "title": "Rebuild Damaged Homes in Gaza",
+        "details": "Funding the development of a mobile app that offers mental health support and resources in Arabic.",
+        "target": "200,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    },
+    {
+        "owner": "aaser.rizk@gmail.com",
+        "title": "Empowering Women Through Sewing",
+        "details": "Helping 10 women launch their sewing businesses by providing training and equipment",
+        "target": "90,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    },
+    {
+        "owner": "aaser.rizk@gmail.com",
+        "title": "Free Coding Bootcamp in Alexandria",
+        "details": "Organizing a free 8-week bootcamp to teach programming to unemployed youth in Alexandria",
+        "target": "150,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    },
+    {
+        "owner": "rahaf.rizk@gmail.com",
+        "title": "Arabic Children's Storybook Series",
+        "details": "Creating a colorful, culturally-relevant storybook series in Arabic to encourage reading among kids aged 4\u20138.",
+        "target": "60,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    },
+    {
+        "owner": "rahaf.rizk@gmail.com",
+        "title": "Cairo Street Animal Shelter",
+        "details": "Funding a new shelter in Cairo for stray cats and dogs, with veterinary care and adoption services",
+        "target": "100,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    },
+    {
+        "owner": "raghad.rizk@gmail.com",
+        "title": "Solar Lights for Sinai Villages",
+        "details": "Installing solar-powered street lights in remote villages in South Sinai to improve safety and access at night.",
+        "target": "80,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    },
+    {
+        "owner": "raghad.rizk@gmail.com",
+        "title": "Accessible Learning for the Visually Impaired",
+        "details": "Producing Braille textbooks and audio lectures for blind students at Egyptian universities",
+        "target": "130,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    },
+    {
+        "owner": "baher.rizk@gmail.com",
+        "title": "Community Garden in Damietta",
+        "details": "Transforming an empty lot into a green space where families can grow food, relax, and build community.",
+        "target": "40,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    },
+    {
+        "owner": "baher.rizk@gmail.com",
+        "title": "Medical Aid for Cancer Patients",
+        "details": "Supporting low-income patients with chemotherapy treatment and transportation to cancer centers in Cairo.",
+        "target": "250,000 EGP",
+        "start_date": "2025-7-5",
+        "end_date": "2026-1-1"
+    }
+]

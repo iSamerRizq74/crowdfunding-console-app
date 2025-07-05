@@ -1,0 +1,44 @@
+[
+    {
+        "first_name": "Samer",
+        "last_name": "Rizk",
+        "email": "samer.rizk@gmail.com",
+        "password": "123456",
+        "phone": "01234567890"
+    },
+    {
+        "first_name": "Basel",
+        "last_name": "Rizk",
+        "email": "basel.rizk@gmail.com",
+        "password": "123456",
+        "phone": "01234567890"
+    },
+    {
+        "first_name": "Aaser",
+        "last_name": "Rizk",
+        "email": "aaser.rizk@gmail.com",
+        "password": "123456",
+        "phone": "01234567890"
+    },
+    {
+        "first_name": "Rahaf",
+        "last_name": "Rizk",
+        "email": "rahaf.rizk@gmail.com",
+        "password": "123456",
+        "phone": "01234567890"
+    },
+    {
+        "first_name": "Raghad",
+        "last_name": "Rizk",
+        "email": "raghad.rizk@gmail.com",
+        "password": "123456",
+        "phone": "01234567890"
+    },
+    {
+        "first_name": "Baher",
+        "last_name": "Rizk",
+        "email": "baher.rizk@gmail.com",
+        "password": "123456",
+        "phone": "012345678900"
+    }
+]
